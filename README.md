@@ -1,4 +1,5 @@
 # AutoMusic
+*Created: 2022-06-12*
 
 A machine-learning project for **automatic music / melody generation**.
 
